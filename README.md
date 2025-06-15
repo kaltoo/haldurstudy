@@ -1,5 +1,8 @@
 ## Õppimiseks
 
+#### Käsitletud teemad
+[Üldine](üldine.md)
+
 #### Infosüsteem
 https://arved.apartmentassociationsystem.click  
 **user**: kalevtoom  
