@@ -9,7 +9,7 @@ https://arved.apartmentassociationsystem.click
 **pass**: {parool1}  
 
 #### Andmebaas (PostgreSQL)
-**ip**: 13.49.21.48  
+**ip**: 156.228.11.247
 **port**: 6432  
 **user**: arved  
 **pass**: {parool2}  
